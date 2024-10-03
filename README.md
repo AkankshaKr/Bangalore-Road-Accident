@@ -5,3 +5,6 @@ I created a comprehensive website for visualizing and analyzing road accident da
 ● Headway Monitoring Warning (HMW): Helps drivers maintain a safe following distance from the vehicle ahead by providing visual and audible alerts if the distance becomes unsafe. Active above 30 km/h, it displays the time in seconds to the vehicle in front when it becomes 2.5 seconds or less.
 ● Lane Departure Warnings (LDW): Provides an alert when the vehicle unintentionally departs from the driving lane without using turn signals, usually active above 55 km/h. It's further classified into LDWL (lane departures toward the left lane) and LDWR (lane departures toward the right lane). Pedestrians and Cyclist Detection and Collision Warning (PCW): Notifies the driver of a pedestrian or cyclist in the danger zone and alerts drivers of an imminent collision, working well when the vehicle is below 50 km/h.
 ● Overspeeding: Detects and classifies visible speed limit signs and provides visual indications when the vehicle's speed exceeds the posted speed limit.
+Results includes that URBAN FORWARD COLLISION WARNINGS has the maximum accident type
+ And LANE DEPARTURE WARNINGS has least accident type
+
